@@ -49,15 +49,8 @@
     display: block;
     font-weight: 400;
     margin-bottom: 0.5em;
-/*    padding-left: 50px; */
 }
 
-
-.form-design4uru-info .sprite-profile {
-    width: 17px;
-    height: 17px;
-    background-position: -59px -5px;
-}
 
 .form-design4uru-info .name {
     background-image: url(images/profile.png);
